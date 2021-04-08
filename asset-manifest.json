@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.9ee5157f.chunk.css",
+    "main.js": "./static/js/main.6235dd6d.chunk.js",
+    "main.js.map": "./static/js/main.6235dd6d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.66b338d5.js",
+    "runtime-main.js.map": "./static/js/runtime-main.66b338d5.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "./static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.acc28735.chunk.js": "./static/js/2.acc28735.chunk.js",
+    "static/js/2.acc28735.chunk.js.map": "./static/js/2.acc28735.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "./static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9ee5157f.chunk.css.map": "./static/css/main.9ee5157f.chunk.css.map",
+    "static/js/2.acc28735.chunk.js.LICENSE.txt": "./static/js/2.acc28735.chunk.js.LICENSE.txt",
+    "static/media/App.module.css": "./static/media/project-bg.330ea30e.png",
+    "static/media/Customerdash.module.css": "./static/media/dash-bg.edcbfb87.png",
+    "static/media/Form.module.css": "./static/media/new-customer-bg.09c32929.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66b338d5.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.acc28735.chunk.js",
+    "static/css/main.9ee5157f.chunk.css",
+    "static/js/main.6235dd6d.chunk.js"
+  ]
+}
